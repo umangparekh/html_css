@@ -10,3 +10,9 @@
   
   
 }
+
+
+.jumbotron {
+  height: 500px;
+  background-image: url('https://goo.gl/04j7Nn');
+}
