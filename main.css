@@ -16,3 +16,14 @@
   height: 500px;
   background-image: url('https://goo.gl/04j7Nn');
 }
+
+.jumbotron h1 {
+	color: #fff;
+	font-size : 48px;
+	font-weight : bold;
+}
+
+.jumbotron p {
+	color: #fff;
+	font-size : 20px;
+}
